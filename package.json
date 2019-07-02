@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "angular": "^1.7.5",
-    "angular-froala": "^3.0.0-rc.2",
+    "angular-froala": "^3.0.1-2",
     "angular-loader": "^1.7.5",
     "angular-route": "^1.7.5",
     "html5-boilerplate": "0.0.1"
